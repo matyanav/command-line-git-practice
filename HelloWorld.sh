@@ -3,6 +3,7 @@
 # and Command Line workshop. 
 
 NAME="Matyana Vilaipone" # Change This Variable to Your Name
+MAJOR="CS"
 
 validate_name() {
     if [ "$NAME" = "HELLO WORLD" ]; then
